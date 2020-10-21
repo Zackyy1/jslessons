@@ -3,3 +3,7 @@ body {
   margin: 0;
   overflow: hidden;
 }
+li.active {
+  background-color: #308cc9;
+  border: 1px solid black;
+}
